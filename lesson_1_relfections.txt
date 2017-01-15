@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+>> Git prepares all metadta/setups needs to have new clean repository  & creates .git directory.
