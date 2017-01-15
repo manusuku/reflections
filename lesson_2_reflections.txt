@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+>> Git prepares all metadta/setups needs to have new clean repository  & creates .git directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+>> Adding to staging aread (git add) will add the file sin a group to be tracked by git for next commit together. Allows logical grouping of files in a single commit (to commit related changes together in one atomic commit).
+
